@@ -6,6 +6,6 @@
 //
 
 //Youtube  https://www.youtube.com/watch?v=Bu6fAlltatA
-// 47:31 de kaldı
+// 01:26:39 de kaldı hatalar var
 
 import Foundation
